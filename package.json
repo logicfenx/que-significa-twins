@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/que-significa-twins",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a que-significa-twins",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/que-significa-twins.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/que-significa-twins/"
+    },
+    "homepage": "https://transpero.net/es/que-significa-twins/"
+}
